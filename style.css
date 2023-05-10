@@ -1,0 +1,28 @@
+.altera-fontes {
+    font-style: normal;
+    font-size: 3 em;
+    font-family: 'Comic Neue', cursive;
+
+}
+
+#fundo {
+    background-color: #7fc7fa;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 300;
+}
+
+#app {
+    background-color: #75c4fc;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
